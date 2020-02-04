@@ -1,0 +1,8 @@
+pyproj
+easygui
+folium
+json
+affine
+utm
+PySimpleGUI
+
